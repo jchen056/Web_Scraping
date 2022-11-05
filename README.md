@@ -18,4 +18,20 @@ A project done for The Grove School of Engineering to measure how CUNY provides 
 1. web crawling: the act of moving from page to page
 1. bots
 
+## libraries and modules
+1. selenium: interact with the wbe browser; 
+>pip install selenium
+>please note that selenium needs a driver to interface with the chosen browser
+2. chromedriver: for selenium to interact with
+3. beautifulsoup4: extract the content of a website
+4. time: to delay an action by an amount of time
+5. csv: to work with csv file
 
+## test automation
+1. unit tests
+1. service/API layer tests
+1. user interface tests: selenium
+
+## HTML and DOM
+we can locate HTML elements by:
+* id attribute(unique)
